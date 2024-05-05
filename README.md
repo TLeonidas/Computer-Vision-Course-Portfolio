@@ -16,3 +16,5 @@ Applications](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/
 - [A04: Creating a Personal Movie Catalog and Recommendation Plan](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A04_ByteMe_ITAI1378.pdf)
 - [L05: TensorFlow Playground: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L05_ITAI%201378.pdf)
 - [A05: TensorFlow Playground Presentation](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A05_ByteMeITAI%201378.pdf)
+- [P06: Revolutionizing Medical Imaging With Computer Vision](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/P06_Byte_ITAI1378.pdf)
+- [A06: Manual Convolutional Neural Network](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A06_ByteMe_ITAI%201378.pdf)
