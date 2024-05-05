@@ -14,3 +14,5 @@ Applications](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/
 - [A03 Presentation: Designing a Conceptual Machine Learning Model For Multilingual Responses](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A03_Presentation_ByteMe_ITAI1358.pdf)
 - [L04: Image Classification with k-Nearest Neighbors: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L04_ITAI_1378.pdf)
 - [A04: Creating a Personal Movie Catalog and Recommendation Plan](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A04_ByteMe_ITAI1378.pdf)
+- [L05: TensorFlow Playground: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L05_ITAI%201378.pdf)
+- [A05: TensorFlow Playground Presentation](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A05_ByteMeITAI%201378.pdf)
