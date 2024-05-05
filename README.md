@@ -12,3 +12,5 @@ Applications](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/
 - [L03: Familiarizing with the Concept of Neural Networks: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L03_ITAI1378.pdf)
 - [A03 Report: Designing a Conceptual Machine Learning Model For Multilingual Responses](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A03_Report_Byte%20Me_ITAI1378.pdf)
 - [A03 Presentation: Designing a Conceptual Machine Learning Model For Multilingual Responses](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A03_Presentation_ByteMe_ITAI1358.pdf)
+- [L04: Image Classification with k-Nearest Neighbors: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L04_ITAI_1378.pdf)
+- [A04: Creating a Personal Movie Catalog and Recommendation Plan](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A04_ByteMe_ITAI1378.pdf)
