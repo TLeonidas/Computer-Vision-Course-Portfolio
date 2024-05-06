@@ -18,3 +18,4 @@ Applications](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/
 - [A05: TensorFlow Playground Presentation](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A05_ByteMeITAI%201378.pdf)
 - [P06: Revolutionizing Medical Imaging With Computer Vision](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/P06_Byte_ITAI1378.pdf)
 - [A06: Manual Convolutional Neural Network](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A06_ByteMe_ITAI%201378.pdf)
+- [L07: Object Classification and Detection in a Real-World Scenario: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L07_ITAI1378.pdf)
