@@ -1,6 +1,7 @@
 # HCC-Computer-Vision-course-portfolio
 
-This repository is intended to host assignments for HCC's Computer Vision Spring '24 class. 
+This repository is intended to host assignments for HCC's Computer Vision Spring '24 class.
+L0X are solo assignments and A0X are group assignments.
 
 ## Course Assignments
 
