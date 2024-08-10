@@ -1,3 +1,5 @@
+<div align="center">
+
 # HCC-Computer-Vision-course-portfolio
 
 This repository hosts most of my assignments for HCC's Computer Vision Spring '24 class. 
@@ -18,3 +20,5 @@ This repository hosts most of my assignments for HCC's Computer Vision Spring '2
 - [Revolutionizing Medical Imaging With Computer Vision](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/P06_Byte_ITAI1378.pdf)
 - [Manual Convolutional Neural Network](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/A06_ByteMe_ITAI%201378.pdf)
 - [Object Classification and Detection in a Real-World Scenario: Reflective Journal](https://github.com/TLeonidas/HCC-Computer-Vision-course-portfolio/blob/main/L07_ITAI1378.pdf)
+
+</div>
