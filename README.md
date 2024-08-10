@@ -2,7 +2,7 @@
 
 # HCC-Computer-Vision-course-portfolio
 
-This repository hosts most of my assignments for HCC's Computer Vision Spring '24 class. 
+This repository hosts some assignments for HCC's Computer Vision class of Spring '24.
 
 ### Course Assignments
 
